@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 * {
 	box-sizing: border-box;
 }
@@ -48,35 +48,3 @@ main {
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
-=======
-main {
-  padding-top: 100px;
-}
-
-main .row {
-  margin-bottom: 20px;
-}
-
-.box {
-  height: 200px;
-  text-align: center;
-  padding-top: 30px;
-}
-
-.black {
-  background-color: black;
-  color: white;
-}
-
-.green {
-  background-color: green;
-}
-
-.orange {
-  background-color: orange;
-}
-
-.blue {
-  background-color: blue;
-}
->>>>>>> 803ce7a0dcea1f839296985782982ce6216a80b9
